@@ -1,2 +1,2 @@
-#fotune-telling
+# fotune-telling
 - くだらない占いアプリケーション
